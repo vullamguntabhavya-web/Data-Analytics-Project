@@ -1,0 +1,63 @@
+🚀 𝐒𝐤𝐢𝐥𝐥𝐂𝐫𝐚𝐟𝐭 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 | 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 – 𝐓𝐚𝐬𝐤 𝟎𝟒 ✅
+
+Excited to share that I have successfully completed Task 04 of my Data Science Internship at SkillCraft Technology.
+
+📊 Task: Business Insights Report using Exploratory Data Analysis (EDA)
+
+🔍 What I worked on:
+
+✨ Cleaned and analyzed a Marketing Campaign Dataset
+
+✨ Performed Exploratory Data Analysis (EDA)
+
+✨ Built an interactive dashboard in Power BI
+
+✨ Created KPIs to analyze campaign performance
+
+✨ Designed visualizations to identify business trends
+
+✨ Generated actionable business insights and recommendations
+
+📈 Dashboard Highlights:
+
+📌 Total Campaigns
+
+📌 Total Clicks
+
+📌 Total Impressions
+
+📌 Total Media Cost
+
+📌 Campaign Budget Analysis
+
+📌 Clicks by Channel
+
+📌 Media Cost by Advertiser
+
+📌 Impressions by Content Position
+
+📌 Interactive Slicers for Dynamic Analysis
+
+💡 Key Learnings:
+
+✔️ Data Cleaning
+
+✔️ Data Visualization
+
+✔️ Business Intelligence
+
+✔️ Exploratory Data Analysis (EDA)
+
+✔️ Dashboard Design
+
+✔️ Business Decision Making using Data
+
+This task helped me strengthen my practical knowledge of Power BI and improve my ability to convert raw data into meaningful business insights.
+
+A big thank you to SkillCraft Technology for providing this valuable learning opportunity.
+SkillCraft Technology
+#SkillCraftTechnology #DataScience #DataAnalytics #PowerBI #EDA #BusinessIntelligence #DataVisualization #Dashboard #MarketingAnalytics #Internship #LearningByDoing #BTech #DataScienceStudent #GitHub #LinkedInLearning #CareerGrowth #Analytics #DataDriven #OpenToWork #Students
+
+GitHub repository : https://lnkd.in/gf7NGW6R
+
+GitHub - srinijalingala2-debug/SCT_DA_04: SkillCraft technology Data Analytics Internship - Task 04GitHub - srinijalingala2-debug/SCT_DA_04: SkillCraft technology Data Analytics Internship - Task 04
